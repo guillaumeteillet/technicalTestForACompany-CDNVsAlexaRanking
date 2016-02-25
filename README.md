@@ -1,11 +1,11 @@
-# Technical test for Checkout.com : CDN VS Alexa Ranking
-Technical Test for Checkout.com - CDN vs Alexa Ranking
+# Technical test for a company : CDN VS Alexa Ranking
+Technical Test for a company  - CDN vs Alexa Ranking
 
 + Will my Alexa ranking be affected (negatively) if I use a CDN to improve my site's availability and performance?
 + Will the CDN get all the traffic credit?
 + If not, is there a particular way I need to setup my site when wiring it to a CDN?
 + Does Alexa provide any insight on the above matter?
-+ Let's assume I use CloudFlare (Checkout most likely will), does CloudFare comment on the above too?
++ Let's assume I use CloudFlare (Company most likely will), does CloudFare comment on the above too?
 
 No, your Alexa Ranking will not be affected negatively if you use a CDN to improve your site's availability and performance.
 Alexa is a popularity contest pure and simple.
